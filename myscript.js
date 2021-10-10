@@ -11,3 +11,7 @@ function startSpin() {
     $(this).css('-webkit-animation-play-state','running');
     $(this).css('animation-play-state','running');
 }
+
+
+$(document).ready(function(){
+    alert("hi");}

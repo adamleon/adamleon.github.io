@@ -14,4 +14,5 @@ function startSpin() {
 
 
 $(document).ready(function(){
-    alert("hi");}
+    document.getElementById("demo").innerHTML = "document ready.";
+})

@@ -1,3 +1,7 @@
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+
 $('#mapimg').on('mouseout', function () {
     $(this).css('-webkit-animation-play-state','paused');
     $(this).css('animation-play-state','paused');

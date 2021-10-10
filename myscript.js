@@ -2,12 +2,12 @@ function myFunction() {
   document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
 
-$('#mapimg').on('mouseout', function () {
+function stopSpin() {
     $(this).css('-webkit-animation-play-state','paused');
     $(this).css('animation-play-state','paused');
-});
+}
 
-$('#mapimg').on('mouseover', function () {
+function startSpin() {
     $(this).css('-webkit-animation-play-state','running');
     $(this).css('animation-play-state','running');
-})
+}

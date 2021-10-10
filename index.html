@@ -8,6 +8,10 @@ $( "p" ).click(function() {
   var htmlString = $( this ).html();
   $( this ).text( htmlString );
 });
+
+$().ready(function() {
+   $("#text").html("Text added by jQuery code.");
+});
 </script>
 
 </head>
@@ -15,7 +19,7 @@ $( "p" ).click(function() {
 
 <p>Hello World</p>
 
-<p id="demo">Test 11</p>
+<p id="text">Test 11</p>
 
 <button type="button" onclick='myFunction()'>Click Me!</button>
 

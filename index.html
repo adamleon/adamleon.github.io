@@ -19,11 +19,24 @@ $().ready(function() {
 
 <button type="button" onclick='myFunction()'>Click Me!</button>
 
-<img id="mapimg" onmouseover="stopSpin()" onmouseout="startSpin()" class="rotate" src="kindpng_7020763.png">
+<img id="mapimg" class="rotate" src="kindpng_7020763.png">
 
 <script>
 $( "p" ).click(function() {
   $( this ).slideUp();
 });
 </script>
+<script>
+$('#mapimg').on('mouseout', function () {
+    $(this).css('-webkit-animation-play-state','paused');
+    $(this).css('animation-play-state','paused');
+});
+
+$('#mapimg').on('mouseover', function () {
+    $(this).css('-webkit-animation-play-state','running');
+    $(this).css('animation-play-state','running');
+})
+</script>
+
+
 </body>

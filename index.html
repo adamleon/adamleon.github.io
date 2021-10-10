@@ -3,12 +3,8 @@
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
-<script>
-$( "#text" ).click(function() {
-  var htmlString = $( this ).html();
-  $( this ).text( htmlString );
-});
 
+<script>
 $().ready(function() {
    $("#text").html("Text added by jQuery code.");
 });
@@ -25,5 +21,10 @@ $().ready(function() {
 
 <img id="mapimg" onmouseover="stopSpin()" onmouseout="startSpin()" class="rotate" src="kindpng_7020763.png">
 
-
+<script>
+$( "#text" ).click(function() {
+  var htmlString = $( this ).html();
+  $( this ).text( htmlString );
+});
+</script>
 </body>

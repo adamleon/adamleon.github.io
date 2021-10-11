@@ -21,7 +21,7 @@ $().ready(function() {
 
 <img id="mapimg" class="rotate" src="kindpng_7020763.png">
    
-<img id="mapimg" class="rotate" src="kindpng_7020763.png">
+<img id="mapimg2" class="rotate" src="kindpng_7020763.png">
 
 <script>
 $( "p" ).click(function() {
@@ -35,6 +35,16 @@ $('#mapimg').on('mouseout', function () {
 });
 
 $('#mapimg').on('mouseover', function () {
+    $(this).css('-webkit-animation-play-state','running');
+    $(this).css('animation-play-state','running');
+})
+
+$('#mapimg2').on('mouseout', function () {
+    $(this).css('-webkit-animation-play-state','paused');
+    $(this).css('animation-play-state','paused');
+});
+
+$('#mapimg2').on('mouseover', function () {
     $(this).css('-webkit-animation-play-state','running');
     $(this).css('animation-play-state','running');
 })

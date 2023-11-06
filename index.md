@@ -5,6 +5,12 @@ I'm an associate professor in Robotics and Mechatronics at the Department of ICT
 # Teaching
 
 ### Supervision
+2023
+- [Robotic Assembly Line for Junction Boxes - Karlsen, B.; Lersveen, F.](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3076961)
+- [Robotised Grinding in Confined Space - Trandem, H.; Ytrøy, V. H.](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3076960)
+- [Line Follower Robot - Boge, S.; Bostad, K. C.; Lund, R. H.](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3076964)
+- [Fish Bin Picking using Machine Vision - Rezaei, F.](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3090579)
+- [Deformable Body Based Salmon Model - For iterative development and testing of equipment within Isaac Sim - Glomsrud, A.](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3090578)
 
 ### Current Courses:
 - AIS2105 Mekatronikk og Robotikk

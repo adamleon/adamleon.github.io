@@ -2,6 +2,7 @@ I'm an associate professor in Robotics and Mechatronics at the Department of ICT
 
 # Projects
 - Preventing Clubfoot Relapse using a Smart Orthosis
+
 # Teaching
 
 ### Supervision
@@ -25,4 +26,4 @@ I'm an associate professor in Robotics and Mechatronics at the Department of ICT
 
 # Media
 - [Studentane Våre er Veldig Ettertrakta](https://nett.no/nyheter/studentane-v%C3%A5re-er-veldig-ettertrakta)
-- [Nyans | AI - Vil vi ha Maskiner som Tenker](https://youtube.com/playlist?list=PLBSPq-MdQqrvssodb8wxnA3NWvkxA4PDc&si=_L-c2P2VTMhGKLkB)
+- [Nyans - AI - Vil vi ha Maskiner som Tenker](https://www.youtube.com/playlist?list=PLBSPq-MdQqrvssodb8wxnA3NWvkxA4PDc)

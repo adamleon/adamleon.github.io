@@ -25,5 +25,6 @@ I'm an associate professor in Robotics and Mechatronics at the Department of ICT
 - AIS2001 Industriell Elektroteknikk *(2022-2023)*
 
 # Media
+- [Nå Skal Det Utdannes Sivilingeniører i Ålesund](https://www.universitetsavisa.no/ntnu-ntnu-alesund-sivilingenior-student/na-skal-det-utdannes-sivilingeniorer-i-alesund/392608)
 - [Studentane Våre er Veldig Ettertrakta](https://nett.no/nyheter/studentane-v%C3%A5re-er-veldig-ettertrakta)
 - [Nyans - AI - Vil vi ha Maskiner som Tenker](https://www.youtube.com/playlist?list=PLBSPq-MdQqrvssodb8wxnA3NWvkxA4PDc)

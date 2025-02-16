@@ -6,7 +6,7 @@ body {
 section, header {
     background: white;
     background-image: none;
-    padding: 2em;
+    padding: 2em 2em 2em 2em;
 }
 
 h1, h2, h3 {

@@ -1,5 +1,7 @@
 ---
 layout: robotboka
+description:  "Hei, jeg heter Adam Leon Kleppe og er førsteamanuensis i mekatronikk og robotikk ved Institutt for IKT og Realfag ved NTNU i Ålesund."
+
 ---
 
 # Den Rødrutede Robotboken 

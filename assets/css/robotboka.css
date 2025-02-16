@@ -7,6 +7,7 @@ section, header {
     background: white;
     background-image: none;
     padding: 2em 2em 2em 2em;
+    margin: 0 0.5em 1em 0.5em;
 }
 
 h1, h2, h3 {

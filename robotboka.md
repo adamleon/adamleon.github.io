@@ -2,12 +2,13 @@
 Det er per idag ingen lærebøker i robotikk på norsk. Dette har to konsekvenser:
 - Utenlandske lærebøker reflekterer ikke norsk industri, og fokuserer derfor på lærestoff som er irrelevant for arbeidslivet.
 - Det norske fagspråket forsvinner og erstattes med engelsk.
-Prosjektet "Den Rødrutede Robotboken" skal addresere dette, og har som mål å være:
-En moderne bok som tar for seg kompetanse som bachelorstudenter trenger når de kommer ut i industrien.
-- En motiverende bok som er gøy å lese og ikke bare nødvendig pensum
+
+Prosjektet "*Den Rødrutede Robotboken*" skal addresere dette, og har som mål å være:
+- En *moderne* bok som tar for seg kompetanse som bachelorstudenter trenger når de kommer ut i industrien.
+- En *motiverende* bok som er gøy å lese og ikke bare nødvendig pensum
 - En pedagogisk bok som egner seg både for lærere og studenter
-- En aktuell bok som viser frem norsk industri og industrihistorie
-- En faglig bok som oppdaterer den norske terminologien innen robotikk
+- En *aktuell* bok som viser frem norsk industri og industrihistorie
+- En *faglig* bok som oppdaterer den norske terminologien innen robotikk
 
 ## Forankret i Norsk Industri 
 For å oppnå målene mine vil boken være strukturert på en spesiell måte, og du kan lese om det i prosjektbeskrivelsen her. 

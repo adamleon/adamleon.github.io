@@ -1,3 +1,7 @@
+---
+layout: robotboka
+---
+
 # Den Rødrutede Robotboken 
 Det er per idag ingen lærebøker i robotikk på norsk. Dette har to konsekvenser:
 - Utenlandske lærebøker reflekterer ikke norsk industri, og fokuserer derfor på lærestoff som er irrelevant for arbeidslivet.

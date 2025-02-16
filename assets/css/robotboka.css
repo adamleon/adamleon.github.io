@@ -6,8 +6,9 @@ body {
 section, header {
     background: white;
     background-image: none;
+    padding: 2em;
 }
 
-h1 {
+h1, h2, h3 {
     text-align: center;
 }

@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background: url('/assets/images/tile-pattern.png') repeat;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+---
+---
+
+@import "{{ site.theme }}";

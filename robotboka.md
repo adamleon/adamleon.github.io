@@ -27,7 +27,7 @@ Er du en bedrift, organisasjon eller person som jobber med robotikk? Her er ting
 - **Nettverk:** Send dette videre til andre. Eller send meg kontaktinformasjon til folk jeg burde snakke med. Jeg tar imot alt.
 - **Finansiering:** Boken er ikke gratis. Den blir faktisk dyrere enn andre bøker. Hver krone du donerer gjør at boken blir billigere for studentene. Ingenting går til meg eller andre. Totalt trenger boken 100 000 kr for å realiseres.
 
-# Hvorfor Bidra 
+## Hvorfor Bidra 
 Hvis du trenger flere insentiver enn å være snill, så vil boken sikte på å selges til alle kommende robotingeniører. Når de søker etter jobb, vil de allerede ha et forhold til bedriften din og vite hvem dere er og hva dere gjør.
 
 Du viser også andre bedrifter hvem du er og hva dere gjør, så det er aldri feil å vise sine styrker.

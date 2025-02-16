@@ -15,10 +15,10 @@
   </head>
   <body>
     <div class="wrapper">
-      <header> 
+      <section> 
         {{ content }}
-      </header>
-      <section>
+      </section>
+      <header>
         <h1>Den Rødrutede Robotboken</h1>
 
         {% if site.logo %}
@@ -49,7 +49,7 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-      </section>
+      </header>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>

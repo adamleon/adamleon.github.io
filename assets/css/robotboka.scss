@@ -32,13 +32,13 @@ section {
 footer {
   float: left;
   position: fixed;
-  width: 500
+  width: 500px;
 }
 
 section, header, footer {
     background: white;
     background-image: none;
-    padding: 0 20px 0 20px;
+    padding: 20px;
     margin: 10px 10px 0 10px;
 }
 
@@ -83,7 +83,7 @@ section, header, footer {
   }
 
   header {
-   /* padding:2px0;*/
+   padding:10px;
   }
 
   header ul, header p.view {

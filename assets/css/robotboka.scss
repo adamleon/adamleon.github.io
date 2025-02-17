@@ -11,25 +11,27 @@ body {
 section, header, footer {
     background: white;
     background-image: none;
-    padding: 2em 2em 2em 2em;
+    padding: 0 10px 0 10px;
+    margin: 10px 10px 0 10px;
 }
 
 header {
     float: right;
     width: 270px;
-    position:fixed;
+    position: static;
     -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
     float: left;
     width: 500px;
+    position: fixed;
 }
 
 footer {
     float: right;
     width: 270px;
-    position:fixed;
+    position:static;
     -webkit-font-smoothing:subpixel-antialiased;
 }
 

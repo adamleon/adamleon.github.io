@@ -11,18 +11,18 @@ section, header {
 }
 
 header {
-    float: right;
-    width:270px;
+    float: left;
+    width: 500px;
     position:fixed;
     -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
-    float: left;
+     width: 270px;
 }
 
 footer {
-    float: right;
+    width: 500px;
 }
 
 h1, h2, h3 {

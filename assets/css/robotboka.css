@@ -7,9 +7,9 @@ section, header {
     background: white;
     background-image: none;
     padding: 2em 2em 2em 2em;
-    margin: 0 0em 1em 0em;
 }
 
+/*
 header {
     float: right;
     width: 270px;
@@ -28,6 +28,7 @@ footer {
     position:fixed;
     -webkit-font-smoothing:subpixel-antialiased;
 }
+*/
 
 h1, h2, h3 {
     text-align: center;

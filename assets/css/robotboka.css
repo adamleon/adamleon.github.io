@@ -20,8 +20,6 @@ header {
 section {
     float: left;
     width: 500px;
-    position:fixed;
-    -webkit-font-smoothing:subpixel-antialiased;  
 }
 
 footer {

@@ -11,18 +11,24 @@ section, header {
 }
 
 header {
-    float: left;
-    width: 500px;
+    float: right;
+    width: 270px;
     position:fixed;
     -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
-     width: 270px;
+    float: left;
+    width: 500px;
+    position:fixed;
+    -webkit-font-smoothing:subpixel-antialiased;  
 }
 
 footer {
-    width: 500px;
+    float: right;
+    width: 270px;
+    position:fixed;
+    -webkit-font-smoothing:subpixel-antialiased;
 }
 
 h1, h2, h3 {

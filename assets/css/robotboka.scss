@@ -25,17 +25,17 @@ a:hover, a:focus {
 
 header {
   float:right;
-  position: static;
+  position: relative;
 }
 
 section {
   float:left;
-  position: fixed;
+  position: static;
 }
 
 footer {
   float: left;
-  position: fixed;
+  position: static;
   width: 500px;
 }
 
